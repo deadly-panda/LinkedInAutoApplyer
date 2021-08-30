@@ -1,0 +1,7 @@
+{
+    "email": "abc@mail.com",
+    "password": "xxxxx",
+    "keywords": "Django developer",
+    "location": "European Union",
+    "driver_path" : "src/driver/chromedriver"
+}
